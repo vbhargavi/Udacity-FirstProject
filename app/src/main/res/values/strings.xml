@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fooda</string>
+    <string name="website"> <a href="http://fryingpan.com/site/">http://fryingpan.com/site/</a></string>
+    <string name="frying_pan">FRYING PAN</string>
+    <string name="address">Address:</string>
+    <string name="address_detail">Big Red Boat in Park, 207 12th Ave, New York, NY 10001</string>
+    <string name="phone">Phone:</string>
+    <string name="phone_number">(212)-989-6464</string>
+    <string name="hours">Hours:</string>
+    <string name="hours_timings">12PM - 12 AM</string>
+    <string name="website_text">Website</string>
+    <string name="restaurant_description">From May to October this docked Coast Guard lightship is home to a vibrant bar scene.</string>
+</resources>
